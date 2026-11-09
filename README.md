@@ -19,4 +19,4 @@ Open http://localhost:3000.
 - Browser localStorage persistence
 
 ## Important limitations
-This is a frontend starter. Data is stored in the current browser's localStorage, not a shared database. It does not yet include user accounts, PostgreSQL, Prisma, server APIs, monthly budgets or downloadable reports. Add those to make it a complete multi-user full-stack portfolio project.
+This is a frontend project. Transaction data is stored locally in the browser and is not synced across devices.
